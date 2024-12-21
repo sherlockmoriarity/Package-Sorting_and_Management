@@ -39,3 +39,9 @@ Three models were trained to predict the *Normalized Priority Score*:
 
 The meta-learner effectively combines XGBoost and DNN models, achieving the best performance with an R² of 0.9989, demonstrating the power of ensemble learning in predictive accuracy.
 
+🛠️ How to Use
+
+Clone this repository:
+```bash
+   git clone https://github.com/sherlockmoriarity/Package-Sorting_and_Management.git
+  ```
